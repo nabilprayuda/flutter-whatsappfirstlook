@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+First step of whatsapp application on flutter.
 
 ## Getting Started
 
